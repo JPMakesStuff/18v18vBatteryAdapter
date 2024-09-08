@@ -1,5 +1,5 @@
-# 18v40vBatteryAdapter
-This is the master compatibility list for all 18v and 18v battery adapters, last updated 09-08-2024<br>
+# 18v18vBatteryAdapter
+This is the master compatibility list for all 18v battery adapters, last updated 09-08-2024<br>
 Available at https://github.com/JPElectron/18v18vBatteryAdapter<br>
 <br>
 **Note:** Adapters dropped on hard concrete floors will break!<br>
