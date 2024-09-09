@@ -7,6 +7,8 @@ Available at https://github.com/JPElectron/18v18vBatteryAdapter<br>
 All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
 If you want to know why other brands of batteries should NOT be used with Ryobi tools, nor in Power Wheels kids ride-on toys, scroll to the bottom of this page!<br>
+<br>
+For 18v to 40v battery adapters see: https://github.com/JPElectron/18v40vBatteryAdapter
 
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
@@ -45,7 +47,7 @@ Additional diode isolation is not required since each adapter already contains a
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-More information on 18v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_Batteries.htm)
+More information on 18v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_Batteries.htm)
 
 <br>
 <br>
