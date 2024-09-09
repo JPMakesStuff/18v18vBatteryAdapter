@@ -1,15 +1,17 @@
 # 18v18vBatteryAdapter
-This is the master compatibility list for all 18v battery adapters, last updated 09-08-2024<br>
+This is info page for all 18v to 18v output battery adapters, last updated 09-09-2024<br>
 Available at https://github.com/JPElectron/18v18vBatteryAdapter<br>
 <br>
 **Note:** Adapters dropped on hard concrete floors will break!<br>
+<br>
+All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
 If you want to know why other brands of batteries should NOT be used with Ryobi tools, nor in Power Wheels kids ride-on toys, scroll to the bottom of this page!<br>
 
 <br>
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a PowerPole connector and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
+Begining in May 2024, some assemblies that were previously hard-wired together are now shipped with a Anderson PowerPole connector and connecting cable.  This facilitates quicker build up of on-hand inventory so only the custom length connecting cable needs to be built on demand.
 The dual adapters look similar, but you should only use the 18v output version with 18v tools, and the 40v output version with 40v tools.
 
 ![How to ID dual battery adapter output voltage](https://github.com/JPElectron/18v40vBatteryAdapter/blob/main/How%20to%20ID%20dual%20battery%20adapter%20output%20voltage.jpg?raw=true)
@@ -21,27 +23,29 @@ The dual adapters look similar, but you should only use the 18v output version w
 
 Confirmed **DO NOT USE** any adapter in....
 
-   - RYi1802BT or RYi1802B6 = 1800-Watt Portable Battery Power Station Inverter Generator
+   - RYi1802BT or RYi1802B6 or RYi818BT or RYi818BG = 1800-Watt Portable Battery Power Station Inverter Generator
        ...because it cannot communicate with the battery pack extra pins, it does not recognize the battery at all
-       ...instead get RYi818BT or RYi818BG to use your 18v batteries
+       ...you can only put a single genuine battery in a slot
 
 <br>
 <br>
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-18v adapters can be paralleled for additional runtime using...
+18v adapters can be paralleled, which adds additional runtime, using any of these splitters...<br>
+<br>
+   - https://www.amazon.com/dp/B0CFL1VK99 (2, 3)
+   - https://www.amazon.com/dp/B0D7ZFX85V (2, 3, 4)
+   - https://www.amazon.com/dp/B07R56HCSN (5)
 
-https://www.amazon.com/dp/B0CFL1VK99 (2, 3)
-https://www.amazon.com/dp/B0D7ZFX85V (2, 3, 4)
-https://www.amazon.com/dp/B07R56HCSN (5)
+Additional diode isolation is not required since each adapter already contains a diode for every inserted battery pack.  That said, paralelling more than 12 batteries has not been tested and is not recomended.
 
 <br>
 <br>
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-More information on 40v batteries is available from toolboy's excellent site: https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm
+More information on 18v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_40v_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_Batteries.htm)
 
 <br>
 <br>
