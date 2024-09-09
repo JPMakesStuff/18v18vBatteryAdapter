@@ -40,9 +40,10 @@ Confirmed **DO NOT USE** any adapter in....
    - https://www.amazon.com/dp/B0D7ZFX85V (2, 3, 4)
    - https://www.amazon.com/dp/B07R56HCSN (5)
 
-Additional diode isolation is not required since each 18v adapter already contains a diode for every inserted battery pack.<br>
-DO NOT mix 40v output and 18v output adapters, these cannot be paralleled.<br>
-Paralelling more than 12 18v batteries has not been tested and is not recomended.
+Additional diode isolation is not required since each 18v adapter already contains a diode for each battery.<br>
+DO NOT mix 18v output and 40v output adapters, these can NOT be paralleled.<br>
+Paralelling batteries of different Ah ratings has not been tested and is not recomended.<br>
+Paralelling more than 12 (twelve) 18v batteries has not been tested and is not recomended.
 
 <br>
 <br>
