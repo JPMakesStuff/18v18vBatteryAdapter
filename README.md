@@ -26,8 +26,11 @@ The dual adapters look similar, but you should only use the 18v output version w
 Confirmed **DO NOT USE** any adapter in....
 
    - RYi1802BT or RYi1802B6 or RYi818BT or RYi818BG = 1800-Watt Portable Battery Power Station Inverter Generator
-       ...because it cannot communicate with the battery pack extra pins, it does not recognize the battery at all
+       ...because it cannot communicate with the battery pack extra data/temperature pins, it does not recognize the battery at all
        ...you can only put a single genuine battery in a slot
+
+   - P2507 Chainsaw 12"
+       ...because it draws too much amperage resulting in melted contacts
 
 <br>
 <br>
