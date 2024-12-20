@@ -25,15 +25,15 @@ The dual adapters look similar, but you should only use the 18v output version w
 
 Confirmed **DO NOT USE** any adapter in....
 
-   - RYi1802BT or RYi1802B6 or RYi818BT or RYi818BG = 1800-Watt Portable Battery Power Station Inverter Generator
-       ...because it cannot communicate with the battery pack extra data/temperature pins, it does not recognize the battery at all
-       ...you can only put a single genuine battery in a slot
+   - RYi1802BT or RYi1802B6 or RYi818BT or RYi818BG 1800-Watt Portable Battery Power Station Inverter Generator
+   ...because it cannot communicate with the battery pack extra data/temperature pins, it does not recognize the battery at all
+   ...you can only put a single genuine battery in a slot
 
    - P2507 Chainsaw 12"
-       ...because it draws too much amperage resulting in melted contacts
+   ...because it draws too much amperage resulting in melted contacts
 
-   - PBLSV717 or PWV200 vacuum (very possibly any vacuum)
-       ...because these draw close to 13 amps, if two or less batteries are left carrying the entire load this is too close to the diode's limit resulting in melted contacts
+   - PBLSV717 or PWV200 Vacuum (very possibly any vacuum)
+   ...because these draw close to 13 amps, if two or less batteries are left carrying the entire load this is too close to the diode's limit resulting in melted contacts
 
 <br>
 <br>
