@@ -32,6 +32,9 @@ Confirmed **DO NOT USE** any adapter in....
    - P2507 Chainsaw 12"
        ...because it draws too much amperage resulting in melted contacts
 
+   - PBLSV717 or PWV200 vacuum (very possibly any vacuum)
+       ...because these draw close to 13 amps, if two or less batteries are left carrying the entire load this is too close to the diode's limit resulting in melted contacts
+
 <br>
 <br>
 
