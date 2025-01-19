@@ -2,7 +2,7 @@
 This is info page for all 18v to 18v output battery adapters, last updated 09-09-2024<br>
 Available at https://github.com/JPElectron/18v18vBatteryAdapter<br>
 <br>
-**Note:** These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG), adapters dropped on hard concrete floors will break!<br>
+**Note:** Adapters dropped on hard concrete floors will break!  These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG Grass Green](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG) or [available for sale](https://www.etsy.com/shop/JPElectron) already assembled and tested.<br>
 <br>
 All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
@@ -38,7 +38,9 @@ Confirmed **DO NOT USE** any adapter in....
    ...because it draws too much amperage resulting in melted contacts
 
    - PBLSV717 or PWV200 Vacuum (very possibly any vacuum)
-   ...because these draw close to 13 amps, if two or less batteries are left carrying the entire load this is too close to the diode's limit resulting in melted contacts
+   ...because these draw close to 13 amps, if two or less batteries are left carrying the entire load this is close to the diode's limit resulting in melted contacts
+
+Custom solutions for high-amperage loads are available, inquire via [Etsy](https://www.etsy.com/shop/JPElectron).  By using external diode combiners with a heat sink, thereby moving the diodes and heat away from the battery terminals, and fixing battery terminals in place with [J-B Weld High Heat Epoxy](https://www.amazon.com/J-B-Weld-High-Epoxy-Syringe/dp/B09Q8DQLJ2), is effective to keep the 3D printing material as PETG.
 
 <br>
 <br>
