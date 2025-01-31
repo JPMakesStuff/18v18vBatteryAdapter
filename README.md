@@ -1,8 +1,10 @@
 # 18v18vBatteryAdapter
-This is info page for all 18v to 18v output battery adapters, last updated 09-09-2024<br>
+This is info page for all 18v to 18v output battery adapters, last updated 01-31-2025<br>
 Available at https://github.com/JPElectron/18v18vBatteryAdapter<br>
 <br>
-**Note:** Adapters dropped on hard concrete floors will break!  These are [3D printed from .stl files](https://www.printables.com/@JPMakesStuff/models?search=ryobi) with [PETG Grass Green](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B0991YSBDG) or [available for sale](https://www.etsy.com/shop/JPElectron) already assembled and tested.<br>
+Scroll down to find which adapter is go or no-go based on which tool you plan to use it in.<br>
+<br>
+**Note:** Adapters dropped on hard concrete floors will break!  These are [available for sale](https://www.etsy.com/shop/JPElectron) assembled and tested.<br>
 <br>
 All adapters have been tested, in a variety of tools, but assessing the age or condition or temperature of every battery pack is unreasonable, as such you assume any/all risks of fire or equipment or property damage, regardless of how or where you use any of these adapters.  See additional safety information section below.<br>
 <br>
@@ -55,7 +57,7 @@ Custom solutions for high-amperage loads are available, inquire via [Etsy](https
 
 Additional diode isolation is not required since each 18v adapter already contains a diode for each battery.<br>
 DO NOT mix 18v output and 40v output adapters, these can NOT be paralleled.<br>
-Paralelling batteries of different Ah ratings has not been tested and is not recomended.<br>
+Paralelling batteries of different Ah ratings has not been tested and is not recomended, lower Ah rated batteries will drain before the others.<br>
 Paralelling more than 12 (twelve) 18v batteries has not been tested and is not recomended.
 
 <br>
