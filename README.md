@@ -65,6 +65,18 @@ Paralelling more than 12 (twelve) 18v batteries has not been tested and is not r
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
+18v tool amperage draw examples...<br>
+<br>
+   - P755 Blower 14.75A / 6.40A / 4.20A<br>
+   - PCL661 Floodlight 1.64A / 0.80A / 0.43A<br>
+   - PCLCW01 Small Chainsaw 10A<br>
+   - Dual train horn 21A<br>
+
+<br>
+<br>
+
+<hr style="border: 1px; height: 1px; background: #AAAAAA;">
+
 More information on 18v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_Batteries.htm)
 
 <br>
