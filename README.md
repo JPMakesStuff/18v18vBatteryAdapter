@@ -77,7 +77,11 @@ Paralelling more than 12 (twelve) 18v batteries has not been tested and is not r
 
 <hr style="border: 1px; height: 1px; background: #AAAAAA;">
 
-More information on 18v batteries is available from toolboy's excellent site: [https://toolboyworld.com/eBay/Ryobi_Batteries.htm](https://toolboyworld.com/eBay/Ryobi_Batteries.htm)
+More information on Ryobi batteries available at...
+
+ - https://toolboyworld.com/eBay/Ryobi_Batteries.htm
+
+ - https://docs.google.com/spreadsheets/d/e/2PACX-1vRghl-44o7Nw_GGOGKN8PdnxJtbzF7UR7nYDt3zEPrRL_azznKE1w4QvBJRLxdQnecwIgQ6tuuzQ4bT/pub
 
 <br>
 <br>
